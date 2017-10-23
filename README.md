@@ -25,6 +25,7 @@
         + 前缀名使用mc(Midea Cloud),只有框架与模块最外层元素还有元件需要前缀名    
     * 功能函数定义（mixins）:  
     * 初始化样式（normalize）:  
+        + 初始化样式避免覆盖原有系统样式
     * ICONFONT （icon-fonts）:
     * 框架定义
     * 模块定义
