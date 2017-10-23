@@ -18,4 +18,11 @@
         . grid-content-lists td button.submit
         . grid-content-lists td button.refuse
 ````
- 
+
+* sass文件的组合/分配
+    * 全局样式定义（variables）:  
+    * 功能函数定义（mixins）:  
+    * 初始化样式（normalize）:  
+    * ICONFONT （icon-fonts）:
+    * 框架定义
+    * 模块定义
