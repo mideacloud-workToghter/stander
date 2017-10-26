@@ -27,6 +27,6 @@
     * 初始化样式（normalize）:  
         + 初始化样式避免覆盖原有系统样式
     * ICONFONT （icon-fonts）:
-    * 框架定义
-    * 模块定义
-    * 元件定义
+    * 框架定义 （layouts）
+    * 模块定义 (nav,date-picker,datatable,grid,alert,switch,pages)
+    * 元件定义 (button,radio,checked box,input,search,files)
